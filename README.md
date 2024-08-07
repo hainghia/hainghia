@@ -1,14 +1,14 @@
 ### Welcome ✨
 
-![LamHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaLamUs&show_icons=true&theme=radical&custom_title=Lam's%20Stats)
+![LamHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hainghia&show_icons=true&theme=cobalt&custom_title=Hai%20Nghia%27s%20Stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaLamUs&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hainghia&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaLamUs&include_all_commits=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hainghia&include_all_commits=true&theme=radical)
 
-![Visitor Count](https://profile-counter.glitch.me/HaLamUs/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/hainghia/count.svg)
 
-👋 Greetings, I’m Lam, from 🇻🇳
+👋 Greetings, I’m Hai Nghia, from 🇻🇳
 - Software engineer, builder, hodl 👷‍♂️
 - Master degree in Computer Science. 👨‍🎓
 - Mostly start-ups.
@@ -38,5 +38,5 @@
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 #### ❤️  to connect
-     📩 itzlamz9x@gmail.com
-     👨‍💻 https://www.linkedin.com/in/lamhacs
+     📩 hohainghia19@gmail.com
+     👨‍💻 https://www.linkedin.com/in/hainghia
