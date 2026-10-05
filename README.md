@@ -43,4 +43,3 @@
 #### ❤️ to connect
      📩 hohainghia19@gmail.com
      👨‍💻 https://www.linkedin.com/in/hainghia
-     📞 +84 975 254 933
