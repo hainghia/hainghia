@@ -15,7 +15,7 @@ I work on backend architecture, data engineering, and Infrastructure as Code, wi
 
 ## Languages & tools
 
-![Python, Rust, TypeScript, PHP, Go](https://skillicons.dev/icons?i=python,rust,ts,php,go)
+![Python, Rust, TypeScript, PHP, Go, .Net](https://skillicons.dev/icons?i=python,rust,ts,php,go,net)
 
 - **Languages:** Python, Rust, TypeScript, PHP, Go.
 - **Backend & web:** Laravel, NestJS, Flask, Next.js.
